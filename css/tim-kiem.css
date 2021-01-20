@@ -1,0 +1,14 @@
+#tim-kiem{
+	float: left;
+	margin: 45px 0px;
+}
+#tim-kiem:active{
+	border: 5px #469EF0;
+}
+.nhap{
+	font-size: 20px;
+}
+.submit{
+	padding: 7px 5px 4px 5px;
+	margin-left: -4px;
+}

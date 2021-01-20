@@ -1,0 +1,44 @@
+body{
+	background-color: #DFDFDF;
+}
+#login{
+	width: 320px;
+	position: absolute;
+	left: 40%;
+	top: 30%;
+}
+#form-dang-nhap{
+	width: 320px;
+	height: 200px;
+	background-color: #ffffff;
+	padding: 25px 10px;
+}
+p{	
+	margin-left: 20px;
+	margin-bottom: 5px;
+	color: #555555;
+}
+.input{
+	font-size: 22px;
+	height: 30px;
+	margin-left: 20px;
+}
+.submit{
+	float: right;
+	margin-top: 15px;
+	margin-right: 28px;
+	padding: 5px 10px;
+	color: #ffffff;
+	background-color: #1432EA;
+	font-family: sans-serif;
+}
+#quen-mk{
+	margin-top: 24px;
+}
+a{
+	text-decoration: none;
+	color: #444444;
+}
+a:hover{
+	color: #4751D5;
+}

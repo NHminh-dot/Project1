@@ -1,0 +1,24 @@
+#login_register{
+	width: 350px;
+	position: absolute;
+	right: 0;
+	top: 50px;
+}
+#login_register a{
+	padding: 10px;
+	text-decoration: none;
+	color: white;
+	margin-right: 5px;
+	font-size: 15px;
+	font-weight: bold;
+	text-transform: uppercase;
+	background-color: #0D09B0;
+}
+#login_register a:hover{
+	color: yellow;
+	transition: .3s ease-in-out;
+}
+.dang_nhap_dang_ky{
+	width: 250px;
+	margin: auto;
+}
